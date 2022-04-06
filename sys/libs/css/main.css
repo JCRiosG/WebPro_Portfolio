@@ -1,0 +1,22 @@
+
+          h2{
+            color: green;
+          }
+          nav{
+            color: #123cdf;
+            background-color: #abc123;
+          }
+          .titulo1{
+              color: red;
+              font-size: 50px;
+          }
+          #titulo-principal{
+              background-color: #e2ae7e;
+          }
+          h1{
+            color: #25c2ff;
+          }
+
+          .bg-upalt{
+            background-color: #8ee1f0 !important;
+          }
