@@ -1,12 +1,4 @@
-<!-- Bloques de texto
-            Parrafos
-            Saltos de linea
-            Divisiones
-            Texto con formato
-            Alineacion de textos
-         -->
-         <!-- Parrafos -->
-         <p>
+        <p>
         HTML stands for Hyper Text Markup Language <br>
         HTML is the standard markup language for Web pages<br>
         HTML elements are the building blocks of HTML pages<br>

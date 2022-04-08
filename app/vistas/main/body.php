@@ -8,16 +8,16 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#" onclick="showPortafolio()">Portfolio</a>
+          <a id="portfolio" class="nav-link" aria-current="page" href="#">Portfolio</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link " aria-current="page" href="#">Skillset</a>
+          <a id="skillset" class="nav-link " aria-current="page" href="#">Skillset</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link " aria-current="page" href="#">Experience</a>
+          <a id="experience" class="nav-link " aria-current="page" href="#" >Experience</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link " aria-current="page" href="#">Contact</a>
+          <a id="contact" class="nav-link " aria-current="page" href="#">Contact</a>
         </li>
       </ul>
     </div>
