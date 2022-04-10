@@ -2,5 +2,6 @@
 <div class="titulo1"> 
     <footer>Contenido de Pie de Pagina</footer>
 </div>
+<script type="text/javascript" src="sys/libs/js/main.js"></script>
 </body>  
 </html>

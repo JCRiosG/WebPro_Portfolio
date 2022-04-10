@@ -9,6 +9,5 @@
       <link rel="stylesheet" href="sys/libs/css/main.css">
       <link rel="stylesheet" href="sys/libs/bootstrap/css/bootstrap.css">
       <script type="text/javascript" src="sys/libs/bootstrap/js/bootstrap.js"></script>
-      <script type="text/javascript" src="sys/libs/js/main.js"></script>
   </head>
  
